@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.AssemblyInfo.cs
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\bin\Debug\net9.0\TareasApp.exe
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\bin\Debug\net9.0\TareasApp.deps.json
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\bin\Debug\net9.0\TareasApp.runtimeconfig.json
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\bin\Debug\net9.0\TareasApp.dll
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\bin\Debug\net9.0\TareasApp.pdb
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.dll
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\refint\TareasApp.dll
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.pdb
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\TareasApp.genruntimeconfig.cache
+C:\Users\PC\Desktop\DAW\C# (fundamentos programacion)\Evaluable_3\TareasApp\obj\Debug\net9.0\ref\TareasApp.dll
